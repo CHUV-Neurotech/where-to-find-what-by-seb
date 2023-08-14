@@ -10,10 +10,12 @@ Repository that references all achievements I have made during this last year. T
 
 ### [`pytest-mip`](https://github.com/HBPMedical/pytest-mip)
 
-Tool to test the up-and-running MIP `7.1.0` federations. For now it tests:
+Tool to test and report the up-and-running MIP `7.1.0` federations. For now it tests:
 - public
 - qa
 - stroke (FERES)
+
+Reports can be accessed online at [https://hbpmedical.github.io/pytest-mip](https://hbpmedical.github.io/pytest-mip).
 
 **Documentation**:
 - **Main page:** [https://github.com/HBPMedical/pytest-mip#readme](https://github.com/HBPMedical/pytest-mip#readme)
