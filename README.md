@@ -64,8 +64,8 @@ Setup a Elasticsearch/Logstash/Kibana stack with Docker and Docker-compose. This
 - **Installation guidelines**: [https://github.com/HIP-infrastructure/docker-elk#installation-guidelines](https://github.com/HIP-infrastructure/docker-elk#installation-guidelines)
   - **First deployment**: [https://github.com/HIP-infrastructure/docker-elk#first-elk-stack-deployment](https://github.com/HIP-infrastructure/docker-elk#first-elk-stack-deployment)
   - **Re-deployment**: [https://github.com/HIP-infrastructure/docker-elk#elk-stack-redeployment
-](https://github.com/HIP-infrastructure/docker-elk#elk-stack-redeployment
-)
+](https://github.com/HIP-infrastructure/docker-elk#elk-stack-redeployment)
+
 ### [`datahipy`](https://github.com/HIP-infrastructure/datahipy):
 
 Containerized tool written in Python to handle neuroimaging and intracerebral data on the HIP adopting Brain Imaging Data Structure (BIDS). The tools provides commands to:
