@@ -99,4 +99,4 @@ Design specifications for the integration of dataset versioning and the developm
 Design specifications for the integration of dataset versioning and the development of public space inside the Gateway have been described in the following repo's issues:
 - [https://github.com/HIP-infrastructure/hip/issues/15](https://github.com/HIP-infrastructure/hip/issues/15)
 - [https://github.com/HIP-infrastructure/hip/issues/16](https://github.com/HIP-infrastructure/hip/issues/16)
-- [https://github.com/HIP-infrastructure/hip/issues/17](https://github.com/HIP-infrastructure/hip/issues/17)https://github.com/HIP-infrastructure/hip/issues/17
+- [https://github.com/HIP-infrastructure/hip/issues/17](https://github.com/HIP-infrastructure/hip/issues/17)
